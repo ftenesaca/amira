@@ -4,5 +4,7 @@ Código Fuente [GitHub](https://github.com/ftenesaca/amira/) Demo [shinyapps.io]
 ####Escuela Superior Politécnica del Litoral
 ####Facultad de Ciencias Naturales y Matemáticas
 ####Ingeniería en Estadística Informática
+
 Colaborador | Fernando Tenesaca
+
 Fecha | EC, Guayaquil, Feb. 12 2016
