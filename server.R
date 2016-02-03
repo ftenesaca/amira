@@ -1,4 +1,4 @@
-#--- Demo 5: server.R -----------------------------------
+#--- AMIRA ver.5 rev.1: server.R -----------------------------------
 
 # library(xtable)
 # library(zoo)

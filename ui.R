@@ -1,4 +1,4 @@
-#--- Demo 5: ui.R -----------------------------------
+#--- AMIRA ver.5 rev.1: ui.R -----------------------------------
 
 # library(xtable)
 # library(zoo)
@@ -12,7 +12,6 @@ library(lubridate)
 library(reshape2)
 
 
-#--- Demo 5 -----------------------------------
 
 shinyUI(fluidPage(tags$style(HTML("
 									                h1.proyecto {color: #2D1152;
