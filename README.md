@@ -1,11 +1,8 @@
-ESCUELA SUPERIOR POLITÉCNICA DEL LITORAL
-
-Facultad de Ciencias Naturales y Matemáticas
-
-Ingeniería en Estadística Informática
-
-AMIRA | Asistente para el Análisis de Series Temporales Estacionarias
-
+#AMIRA | Asistente para el Análisis de Series Temporales Estacionarias
 Fernando Tenesaca
 
-Feb. 12 2016
+####Escuela Superior Politécnica del Litoral
+####Facultad de Ciencias Naturales y Matemáticas
+####Ingeniería en Estadística Informática
+
+EC, Guayaquil | Feb. 12 2016
