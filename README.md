@@ -1,14 +1,11 @@
 ####AMIRA | Asistente para el Análisis de Series Temporales Estacionarias
-> <i class="icon-upload"></i> Publish a document
 > - Código Fuente [GitHub](https://github.com/ftenesaca/amira/)
 > - Demo [shinyapps.io](https://espol.shinyapps.io/amira/)
-
 #####Universidad
-```javascript
-Escuela Superior Politécnica del Litoral
-Facultad de Ciencias Naturales y Matemáticas
-Ingeniería en Estadística Informática
-```
+> - Escuela Superior Politécnica del Litoral
+> - Facultad de Ciencias Naturales y Matemáticas
+> - Ingeniería en Estadística Informática
+
 #####Proyecto de Materia Integradora
 ```javascript
 Fernando Tenesaca, rtenese@espol.edu.ec
