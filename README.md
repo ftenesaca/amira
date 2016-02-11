@@ -3,8 +3,8 @@
 > - Demo [shinyapps.io](https://espol.shinyapps.io/amira/)
 
 #####Universidad:
-> - Escuela Superior Politécnica del Litoral
-> - Facultad de Ciencias Naturales y Matemáticas
+> - Escuela Superior Politécnica del Litoral, www.espol.edu.ec
+> - Facultad de Ciencias Naturales y Matemáticas, www.fcnm.espol.edu.ec
 > - Ingeniería en Estadística Informática
 
 #####Proyecto de Materia Integradora:
