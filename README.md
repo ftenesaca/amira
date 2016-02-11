@@ -1,14 +1,16 @@
-###AMIRA | Asistente para el Análisis de Series Temporales Estacionarias
+####AMIRA | Asistente para el Análisis de Series Temporales Estacionarias
 Código Fuente [GitHub](https://github.com/ftenesaca/amira/) Demo [shinyapps.io](https://espol.shinyapps.io/amira/)
+#####Universidad
 ```javascript
 Escuela Superior Politécnica del Litoral
 Facultad de Ciencias Naturales y Matemáticas
 Ingeniería en Estadística Informática
 ```
-Colaborador | Fernando Tenesaca, rtenese@espol.edu.ec
-
-Fecha | EC, Guayaquil, Feb. 12 2016
-
+#####Proyecto de Materia Integradora
+```javascript
+Fernando Tenesaca, rtenese@espol.edu.ec
+EC, Guayaquil, Feb. 12 2016
+```
 #####Referencias:
 * [1]	G. Box and G. Jenkins, Time Series Analysis: Forecasting and Control, San Francisco: Holden-Day, 1970.
 * [2]	E. Dijkstra, The Humble Programmer, Communications of the ACM, vol. 15, pp. 859-866, Oct. 1972.
