@@ -2,7 +2,6 @@
 ----------
 > - Código Fuente [GitHub](https://github.com/ftenesaca/amira/)
 > - Demo [shinyapps.io](https://espol.shinyapps.io/amira/)
-> - <img src="http://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fftenesaca%2Famira&s=6&e=h" alt="Generador de Códigos QR Codes"/>
 
 #####Universidad:
 > - Escuela Superior Politécnica del Litoral, www.espol.edu.ec
@@ -43,3 +42,6 @@
 > - [23]	R. Alabern, Introducción a Shiny, Rstudio, http://rstudio-pubs-static.s3.amazonaws.com/21373_8af3d3634b97461089c8a76659982915.html#reactive-isolate, 12 Feb. 2016.
 > - [24]	Rstudio, Scaling and Performance Tuning with shinyapps.io, Rstudio, http://shiny.rstudio.com/articles/scaling-and-tuning.html, 12 Feb. 2016.
 > - [25]	M. Dettling, Applied Time Series Analysis, Switzerland: ETH Zurich, http://stat.ethz.ch/education/semesters/ss2014/atsa , 12 Feb. 2016
+
+#####AMIRA
+<img src="http://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fftenesaca%2Famira&s=6&e=h" alt="Generador de Códigos QR Codes"/>
