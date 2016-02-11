@@ -2,6 +2,7 @@
 ----------
 > - Código Fuente [GitHub](https://github.com/ftenesaca/amira/)
 > - Demo [shinyapps.io](https://espol.shinyapps.io/amira/)
+> - <img src="http://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fftenesaca%2Famira&s=6&e=h" alt="Generador de Códigos QR Codes"/>
 
 #####Universidad:
 > - Escuela Superior Politécnica del Litoral, www.espol.edu.ec
