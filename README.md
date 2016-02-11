@@ -2,14 +2,18 @@
 > - Código Fuente [GitHub](https://github.com/ftenesaca/amira/)
 > - Demo [shinyapps.io](https://espol.shinyapps.io/amira/)
 
-#####Universidad
+#####Universidad:
 > - Escuela Superior Politécnica del Litoral
 > - Facultad de Ciencias Naturales y Matemáticas
 > - Ingeniería en Estadística Informática
 
-#####Proyecto de Materia Integradora
+#####Proyecto de Materia Integradora:
 > - Fernando Tenesaca, rtenese@espol.edu.ec
 > - EC, Guayaquil, Feb. 12 2016
+
+#####Profesores:
+> - M.Sc. Sonnia Reyes, sreyes@espol.edu.ec
+> - Ph.D. Francisco Vera, fvera@espol.edu.ec
 
 #####Referencias:
 > - [1]	G. Box and G. Jenkins, Time Series Analysis: Forecasting and Control, San Francisco: Holden-Day, 1970.
