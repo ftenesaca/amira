@@ -43,5 +43,5 @@
 > - [24]	Rstudio, Scaling and Performance Tuning with shinyapps.io, Rstudio, http://shiny.rstudio.com/articles/scaling-and-tuning.html, 12 Feb. 2016.
 > - [25]	M. Dettling, Applied Time Series Analysis, Switzerland: ETH Zurich, http://stat.ethz.ch/education/semesters/ss2014/atsa , 12 Feb. 2016
 
-#####AMIRA
-<img src="http://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fftenesaca%2Famira&s=6&e=h" alt="Generador de Códigos QR Codes"/>
+#####AMIRA QR:
+<img src="http://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fftenesaca%2Famira&s=6&e=h" alt="AMIRA QR"/>
