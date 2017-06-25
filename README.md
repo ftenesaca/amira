@@ -3,7 +3,7 @@ AMIRA | Asistente para el Análisis de Series Temporales Estacionarias
 > - Código Fuente [GitHub](https://github.com/ftenesaca/amira/)
 > - Demo [shinyapps.io](https://espol.shinyapps.io/amira/)
 
-#####Universidad:
+Universidad:
 > - Escuela Superior Politécnica del Litoral, www.espol.edu.ec
 > - Facultad de Ciencias Naturales y Matemáticas, www.fcnm.espol.edu.ec
 > - Ingeniería en Estadística Informática
