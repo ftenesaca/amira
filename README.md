@@ -8,15 +8,15 @@ Universidad:
 > - Facultad de Ciencias Naturales y Matemáticas, www.fcnm.espol.edu.ec
 > - Ingeniería en Estadística Informática
 
-#####Proyecto de Materia Integradora:
+Proyecto de Materia Integradora:
 > - Fernando Tenesaca, rtenese@espol.edu.ec
 > - EC, Guayaquil, Feb. 12 2016
 
-#####Profesores:
+Profesores:
 > - M.Sc. Sonnia Reyes, sreyes@espol.edu.ec
 > - Ph.D. Francisco Vera, fvera@espol.edu.ec
 
-#####Referencias:
+Referencias:
 > - [1]	G. Box and G. Jenkins, Time Series Analysis: Forecasting and Control, San Francisco: Holden-Day, 1970.
 > - [2]	E. Dijkstra, The Humble Programmer, Communications of the ACM, vol. 15, pp. 859-866, Oct. 1972.
 > - [3]	P. Naur and B. Randell, Software Engineering: Report of a conference, NATO Science Committee, Garmisch, Germany, 7-11 Oct. 1968, Brussels, Scientific Affairs Division, 1969.
@@ -43,5 +43,5 @@ Universidad:
 > - [24]	Rstudio, Scaling and Performance Tuning with shinyapps.io, Rstudio, http://shiny.rstudio.com/articles/scaling-and-tuning.html, 12 Feb. 2016.
 > - [25]	M. Dettling, Applied Time Series Analysis, Switzerland: ETH Zurich, http://stat.ethz.ch/education/semesters/ss2014/atsa , 12 Feb. 2016
 
-#####AMIRA QR:
+AMIRA QR:
 <img src="http://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fftenesaca%2Famira&s=6&e=h" alt="AMIRA QR"/>
